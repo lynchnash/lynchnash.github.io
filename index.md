@@ -1,37 +1,18 @@
 ---
-layout: page
+layout: default
+title: 首页
 ---
 
-# About Me
+GMT，全称Generic Mapping Tools，是一种开源地图绘制工具，广泛应用于全球地学界。
 
-<img src="/images/jasonansel3.jpg" class="floatpic" width="200" height="200">
-My name is Jason Ansel.  I am a Director of Engineering at GoDaddy, which
-I joined in 2013 as part of the [acquisition] of the startup [Locu][locu].
-I started working for Locu in 2011, while I was simultaneously pursuing
-my PhD at [MIT][MIT] [CSAIL][CSAIL], which I completed in 2013.  I was the
-first non-founder employee of Locu and my work there and at GoDaddy focuses
-on creating machine learning algorithms for extracting semantic information
-from unstructured web content.
+GMT中文社区是为GMT中文用户而建立的小众社区。首次访问社区主页的用户，可以先看看[关于](http://gmt-china.org/about/)页面中社区的相关信息，也可以看看社区的[博客](http://gmt-china.org/blog/)。
 
-I spend some of my free time working on [OpenTuner], an extensible framework
-for program autotuning.  We are currently looking for users, if interested
-the source code is available on the [OpenTuner] site.
+社区内包含了大量的GMT相关资源：
 
-As part of my PhD dissertation, I started the [PetaBricks] language and
-compiler project.  PetaBricks is a language that incorporates algorithmic
-choices to allow an integrated autotuner to explore search spaces of program
-implementations.  As an undergraduate I did research with [Gene Cooperman]
-and helped create [DMTCP], a user-level distributed checkpoint/restart system.
+- [下载](http://gmt-china.org/download/)页面中可以下载最新的GMT安装包、文档以及相关数据
+- [文档](http://gmt-china.org/docs/)页面中包含了社区翻译和维护的中文文档，包括参考手册、模块手册和示例集
 
+{% include google-map.html %}
+<h6>想把自己所在的单位也标记在图中？请发送单位名称以及具体经纬度到 admin@gmt-china.org。</h6>
 
-[acquisition]: http://allthingsd.com/20130819/godaddy-acquires-merchant-finder-startup-locu-for-70-million/
-[CSAIL]: http://www.csail.mit.edu/
-[DMTCP]: http://dmtcp.sourceforge.net/
-[Gene Cooperman]: http://www.ccs.neu.edu/home/gene/
-[Locu]: http://locu.com/
-[MIT]: http://www.mit.edu/
-[OpenTuner]: http://opentuner.org/
-[PetaBricks]: http://projects.csail.mit.edu/petabricks/
-[Commit]: http://groups.csail.mit.edu/commit/
-[Saman Amarasinghe]: http://people.csail.mit.edu/saman/
-
+<br/>
